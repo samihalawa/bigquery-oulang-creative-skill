@@ -1,5 +1,5 @@
 ---
-name: bigquery-oulang-analysis
+name: bigquery-oulang-creative
 description: >
   Analyze Oulang platform data via BigQuery to find profit opportunities, conversion bottlenecks,
   and growth levers. Uses bq CLI (authenticated via gcloud). Triggers: "analyze oulang",
